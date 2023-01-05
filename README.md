@@ -19,4 +19,4 @@ TIL(Today I Learn)
 23.01.02 - [Java]객체지향 프로그래매밍 심화 - BurgerQueen 주문 프로그램 만들기  
 23.01.03 - [Java]객체지향 프로그래매밍 심화 - BurgerQueen 주문 프로그램 만들기  
 22.01.04 - [Java]컬렉션 - Enum, Generic, Exception, Collection  
-22.01.04 - [Java]컬렉션 - Enum, Generic, Exception, Collection  
+22.01.05 - [Java]컬렉션 - Enum, Generic, Exception, Collection  
