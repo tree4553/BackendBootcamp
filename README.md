@@ -2,10 +2,10 @@
 Blog - https://velog.io/@mongcheol  
 
 # 글목록
-부트캠프 시작!_22.12.15 - https://velog.io/@mongcheol/부트캠프-시작  
-컴퓨터_22.12.19 - https://velog.io/@mongcheol/컴퓨터  
-Section 1 회고_23.01.11 - https://velog.io/@mongcheol/Section-1-회고  
-Java 길이 함수_23.01.12 - https://velog.io/@mongcheol/Java-길이-함수  
+22.12.15 부트캠프 시작! - https://velog.io/@mongcheol/부트캠프-시작  
+22.12.19 컴퓨터 - https://velog.io/@mongcheol/컴퓨터  
+23.01.11 Section 1 회고 - https://velog.io/@mongcheol/Section-1-회고  
+23.01.12 Java 길이 함수 - https://velog.io/@mongcheol/Java-길이-함수  
 
 # TIL(Today I Learn)  
 22.12.15 - 메타인지  
