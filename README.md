@@ -1,7 +1,13 @@
 부트캠프 과정 기록용 공간  
 Blog - https://velog.io/@mongcheol  
+
+글목록
+- - -
 부트캠프 시작!_22.12.15 - https://velog.io/@mongcheol/부트캠프-시작  
 컴퓨터_22.12.19 - https://velog.io/@mongcheol/컴퓨터
+Section 1 회고_23.01.11 - https://velog.io/@mongcheol/Section-1-회고
+Java 길이 함수_23.01.12 - https://velog.io/@mongcheol/Java-길이-함수
+- - -
 
 TIL(Today I Learn)  
 22.12.15 - 메타인지  
@@ -18,9 +24,10 @@ TIL(Today I Learn)
 22.12.30 - [Java]객체지향 프로그래매밍 심화 - 다형성, 추상화  
 23.01.02 - [Java]객체지향 프로그래매밍 심화 - BurgerQueen 주문 프로그램 만들기  
 23.01.03 - [Java]객체지향 프로그래매밍 심화 - BurgerQueen 주문 프로그램 만들기  
-22.01.04 - [Java]컬렉션 - Enum, Generic, Exception, Collection  
-22.01.05 - [Java]컬렉션 - Enum, Generic, Exception, Collection  
-22.01.06 - [Java]심화 - Annotation, Lambda, Stream  
-22.01.09 - [Java]심화 - I/O  
-22.01.10 - [Java]심화 - 스레드, 자바 가상 머신  
-22.01.11 - [Java]메타 학습 & 회고 - 기술면접 준비  
+23.01.04 - [Java]컬렉션 - Enum, Generic, Exception, Collection  
+23.01.05 - [Java]컬렉션 - Enum, Generic, Exception, Collection  
+23.01.06 - [Java]심화 - Annotation, Lambda, Stream  
+23.01.09 - [Java]심화 - I/O  
+23.01.10 - [Java]심화 - 스레드, 자바 가상 머신  
+23.01.11 - [Java]메타 학습 & 회고 - 기술면접 준비  
+23.01.12 - [자료구조/알고리즘] 재귀  
