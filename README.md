@@ -4,9 +4,9 @@ Blog - https://velog.io/@mongcheol
 글목록
 - - -
 부트캠프 시작!_22.12.15 - https://velog.io/@mongcheol/부트캠프-시작  
-컴퓨터_22.12.19 - https://velog.io/@mongcheol/컴퓨터
-Section 1 회고_23.01.11 - https://velog.io/@mongcheol/Section-1-회고
-Java 길이 함수_23.01.12 - https://velog.io/@mongcheol/Java-길이-함수
+컴퓨터_22.12.19 - https://velog.io/@mongcheol/컴퓨터  
+Section 1 회고_23.01.11 - https://velog.io/@mongcheol/Section-1-회고  
+Java 길이 함수_23.01.12 - https://velog.io/@mongcheol/Java-길이-함수  
 - - -
 
 TIL(Today I Learn)  
