@@ -4,6 +4,7 @@
 ## 글목록
 22.12.15 부트캠프 시작!! - https://velog.io/@mongcheol/부트캠프-시작  
 22.12.19 컴퓨터 - https://velog.io/@mongcheol/컴퓨터  
+22.12.28 프로그래밍 - https://velog.io/@mongcheol/프로그래밍  
 23.01.11 Section 1 회고 - https://velog.io/@mongcheol/Section-1-회고  
 23.01.12 Java 길이 함수 - https://velog.io/@mongcheol/Java-길이-함수  
 23.01.12 재귀 함수 - https://velog.io/@mongcheol/재귀-함수  
