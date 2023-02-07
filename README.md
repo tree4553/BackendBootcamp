@@ -8,6 +8,7 @@
 23.01.11 Section 1 회고 - https://velog.io/@mongcheol/Section-1-회고  
 23.01.12 Java 길이 함수 - https://velog.io/@mongcheol/Java-길이-함수  
 23.01.12 재귀 함수 - https://velog.io/@mongcheol/재귀-함수  
+23.02.03 port 8080 이미 사용 중 - https://velog.io/@mongcheol/port-8080-이미-사용중  
 
 # TIL(Today I Learn)  
 22.12.15 - 메타인지  
@@ -44,3 +45,5 @@
 23.02.01 - [관계형 데이터베이스] 실습  
 23.02.02 - [Spring Core] Spring Framework 기본  
 23.02.03 - [Spring Core] Spring Framework 기본  
+23.02.06 - [Spring Core] DI(Dependency Injection) 개념 학습  
+23.02.07 - [Spring Core] DI(Dependency Injection) 실습  
