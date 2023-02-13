@@ -49,3 +49,4 @@
 23.02.07 - [Spring Core] DI(Dependency Injection) 실습  
 23.02.08 - [Spring Core] AOP(Aspect Oriented Programming) 개념 학습  
 23.02.09 - [Spring Core] AOP(Aspect Oriented Programming) 실습  
+23.02.10 - [기술면접 준비] 자료구조, API, IOC, DI  
