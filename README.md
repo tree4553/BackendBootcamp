@@ -10,7 +10,7 @@
 23.01.12 재귀 함수 - https://velog.io/@mongcheol/재귀-함수  
 23.02.03 port 8080 이미 사용 중 - https://velog.io/@mongcheol/port-8080-이미-사용중  
 23.02.13 사장님 저희 Git 추가 안했는데... - https://velog.io/@mongcheol/사장님-저희-Git-추가-안했는데  
-23.02.14 Stream 그게 뭐시여 시냇물 아니여? - https://velog.io/@mongcheol/Strea-그게-뭐시여-시냇물-아니여  
+23.02.14 Stream 그게 뭐시여 시냇물 아니여? - https://velog.io/@mongcheol/Stream-그게-뭐시여-시냇물-아니여  
 23.02.15 과일 바구니에 객체지향을 담아보자 - https://velog.io/@mongcheol/과일-바구니에-객체지향을-담아보자  
 
 # TIL(Today I Learn)  
