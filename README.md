@@ -67,4 +67,8 @@
 23.02.28 - [Spring MVC] 트랜잭션 - 트랜잭션 학습  
 23.03.02 - [Spring MVC] 트랜잭션 - 실습  
 23.03.03 - [Spring MVC] 테스팅 - 테스팅 학습  
-23.03.04 - 
+23.03.04 - [Spring Core] Spring Framework - DI(Dependency Injection)  
+23.03.04 - [Spring Core] Spring Framework - DI(Dependency Injection)  
+23.03.04 - [Spring Core] Spring Framework - AOP(Aspect Oriented Programming)  
+23.03.04 - [기술면접 준비] Spring MVC  
+
