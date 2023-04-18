@@ -95,5 +95,7 @@
 23.04.10 - Section 4 회고 - 기술면접 준비 - Spring Security, Spring Webflux, Cloud  
 23.04.11 - [Pre-Project] 팀빌딩, 프로젝트 툴 세팅  
 23.04.12 - [Pre-Project] 프레임워크 선택 및 적용  
-23.04.13 - [Pre-Project]  
-23.04.14 - [Pre-Project]  
+23.04.13 - [Pre-Project] 프로젝트 학습 내용 학습  
+23.04.14 - [Pre-Project] 사용자 요구 사항 정의서 작성  
+23.04.17 - [Pre-Project] Git 설정, 개발 환경 회의  
+23.04.18 - [Pre-Project] Backend 개발 환경 구축  
