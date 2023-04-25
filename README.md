@@ -99,3 +99,4 @@
 23.04.14 - [Pre-Project] 사용자 요구 사항 정의서 작성  
 23.04.17 - [Pre-Project] Git 설정, 개발 환경 회의  
 23.04.18 - [Pre-Project] Backend 개발 환경 구축  
+23.04.19 - [Pre-Project] 화면정의, API 명세서 작성  
