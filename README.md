@@ -101,3 +101,4 @@
 23.04.18 - [Pre-Project] Backend 개발 환경 구축  
 23.04.19 - [Pre-Project] 화면정의, API 명세서 작성  
 23.04.20 - [Pre-Project] 역할 분담, Ask 엔티티 구현  
+23.04.21 - [Pre-Project] 프론트, 백엔드 구현 내용 공유, 추후 일정 논의, 기능 개발  
